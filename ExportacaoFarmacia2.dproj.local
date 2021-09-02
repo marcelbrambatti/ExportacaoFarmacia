@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/20 13:34:02.000.256,=D:\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/20 13:34:14.000.861,=D:\DelphiProjects\ExportacaoFarmacia\Principal.pas</Transaction>
+    <Transaction>2020/08/20 13:40:04.000.241,D:\DelphiProjects\ExportacaoFarmacia\ExportacaoFarmacia2.dfm=D:\Embarcadero\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/20 13:40:04.000.241,D:\DelphiProjects\ExportacaoFarmacia\ExportacaoFarmacia2.pas=D:\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/20 13:40:31.000.562,D:\DelphiProjects\ExportacaoFarmacia\ExportacaoFarmacia2.pas=</Transaction>
+    <Transaction>2020/08/20 13:40:40.000.920,D:\DelphiProjects\ExportacaoFarmacia\ExportacaoFarmacia2.dproj=D:\Embarcadero\Projects\Project4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
